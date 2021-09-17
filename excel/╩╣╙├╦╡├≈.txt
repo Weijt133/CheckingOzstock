@@ -1,0 +1,10 @@
+程序介绍：
+此程序用于检测同时在Ozstock和Ebay上卖的商品，只要哪一方先显示缺货，excel上的stock status就会改为out of stock，程序会在20到30分钟内随机时间运行一次。另外，程序也会检测商品的发放日期，如果超过30日，程序会将此处改为红色，其他agent可以自行接手这产品。
+
+使用方法：
+填入资料时，1行的7列数值都需要填上。
+sku：填上RTS的数字
+name of product: 填上产品名称
+Ozstock link 和Ebay link：填上相对应的网页链接
+stock status：请开始放上产品时都填上In stock
+date：请按原定的格式填上日期
