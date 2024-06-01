@@ -1,4 +1,3 @@
 # CheckingOzstock
 
-I designed this program for current boss. He would like to use the crawler to monitor whether the product is out of stock online.
-This is python program using Beautifulsoup framwork. 
+This project is a Python-based web crawler utilizing the BeautifulSoup framework. It is designed to monitor the stock status of online products in real-time and detect when items are out of stock.
